@@ -1,0 +1,8 @@
+C:\Users\elias\Documents\GitHub\CSharp_Master\Calc_Area_Perimeter\AreaAndPerimeterCalc\AreaAndPerimeterCalc\bin\Debug\AreaAndPerimeterCalc.exe.config
+C:\Users\elias\Documents\GitHub\CSharp_Master\Calc_Area_Perimeter\AreaAndPerimeterCalc\AreaAndPerimeterCalc\bin\Debug\AreaAndPerimeterCalc.exe
+C:\Users\elias\Documents\GitHub\CSharp_Master\Calc_Area_Perimeter\AreaAndPerimeterCalc\AreaAndPerimeterCalc\bin\Debug\AreaAndPerimeterCalc.pdb
+C:\Users\elias\Documents\GitHub\CSharp_Master\Calc_Area_Perimeter\AreaAndPerimeterCalc\AreaAndPerimeterCalc\obj\Debug\AreaAndPerimeterCalc.csproj.AssemblyReference.cache
+C:\Users\elias\Documents\GitHub\CSharp_Master\Calc_Area_Perimeter\AreaAndPerimeterCalc\AreaAndPerimeterCalc\obj\Debug\AreaAndPerimeterCalc.csproj.SuggestedBindingRedirects.cache
+C:\Users\elias\Documents\GitHub\CSharp_Master\Calc_Area_Perimeter\AreaAndPerimeterCalc\AreaAndPerimeterCalc\obj\Debug\AreaAndPerimeterCalc.csproj.CoreCompileInputs.cache
+C:\Users\elias\Documents\GitHub\CSharp_Master\Calc_Area_Perimeter\AreaAndPerimeterCalc\AreaAndPerimeterCalc\obj\Debug\AreaAndPerimeterCalc.exe
+C:\Users\elias\Documents\GitHub\CSharp_Master\Calc_Area_Perimeter\AreaAndPerimeterCalc\AreaAndPerimeterCalc\obj\Debug\AreaAndPerimeterCalc.pdb
