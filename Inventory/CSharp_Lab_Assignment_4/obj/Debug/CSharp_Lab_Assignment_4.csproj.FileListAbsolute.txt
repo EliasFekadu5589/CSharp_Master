@@ -1,0 +1,11 @@
+C:\Users\Japu\source\repos\CSharp_Lab_Assignment_4\bin\Debug\CSharp_Lab_Assignment_4.exe.config
+C:\Users\Japu\source\repos\CSharp_Lab_Assignment_4\bin\Debug\CSharp_Lab_Assignment_4.exe
+C:\Users\Japu\source\repos\CSharp_Lab_Assignment_4\bin\Debug\CSharp_Lab_Assignment_4.pdb
+C:\Users\Japu\source\repos\CSharp_Lab_Assignment_4\obj\Debug\CSharp_Lab_Assignment_4.csproj.AssemblyReference.cache
+C:\Users\Japu\source\repos\CSharp_Lab_Assignment_4\obj\Debug\CSharp_Lab_Assignment_4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Japu\source\repos\CSharp_Lab_Assignment_4\obj\Debug\CSharp_Lab_Assignment_4.Form1.resources
+C:\Users\Japu\source\repos\CSharp_Lab_Assignment_4\obj\Debug\CSharp_Lab_Assignment_4.Properties.Resources.resources
+C:\Users\Japu\source\repos\CSharp_Lab_Assignment_4\obj\Debug\CSharp_Lab_Assignment_4.csproj.GenerateResource.cache
+C:\Users\Japu\source\repos\CSharp_Lab_Assignment_4\obj\Debug\CSharp_Lab_Assignment_4.csproj.CoreCompileInputs.cache
+C:\Users\Japu\source\repos\CSharp_Lab_Assignment_4\obj\Debug\CSharp_Lab_Assignment_4.exe
+C:\Users\Japu\source\repos\CSharp_Lab_Assignment_4\obj\Debug\CSharp_Lab_Assignment_4.pdb

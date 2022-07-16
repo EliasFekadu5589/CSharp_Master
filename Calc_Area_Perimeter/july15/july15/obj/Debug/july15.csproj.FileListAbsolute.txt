@@ -1,0 +1,6 @@
+C:\Users\elias\Documents\GitHub\CSharp_Master\Calc_Area_Perimeter\july15\july15\obj\Debug\july15.csproj.AssemblyReference.cache
+C:\Users\elias\Documents\GitHub\CSharp_Master\Calc_Area_Perimeter\july15\july15\obj\Debug\july15.csproj.SuggestedBindingRedirects.cache
+C:\Users\elias\Documents\GitHub\CSharp_Master\Calc_Area_Perimeter\july15\july15\obj\Debug\ShopApp.ShopApp.resources
+C:\Users\elias\Documents\GitHub\CSharp_Master\Calc_Area_Perimeter\july15\july15\obj\Debug\july15.Properties.Resources.resources
+C:\Users\elias\Documents\GitHub\CSharp_Master\Calc_Area_Perimeter\july15\july15\obj\Debug\july15.csproj.GenerateResource.cache
+C:\Users\elias\Documents\GitHub\CSharp_Master\Calc_Area_Perimeter\july15\july15\obj\Debug\july15.csproj.CoreCompileInputs.cache

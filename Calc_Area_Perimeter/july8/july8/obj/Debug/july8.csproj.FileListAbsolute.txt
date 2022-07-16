@@ -1,0 +1,11 @@
+C:\Users\elias\Documents\GitHub\CSharp_Master\Calc_Area_Perimeter\july8\july8\bin\Debug\july8.exe.config
+C:\Users\elias\Documents\GitHub\CSharp_Master\Calc_Area_Perimeter\july8\july8\bin\Debug\july8.exe
+C:\Users\elias\Documents\GitHub\CSharp_Master\Calc_Area_Perimeter\july8\july8\bin\Debug\july8.pdb
+C:\Users\elias\Documents\GitHub\CSharp_Master\Calc_Area_Perimeter\july8\july8\obj\Debug\july8.csproj.AssemblyReference.cache
+C:\Users\elias\Documents\GitHub\CSharp_Master\Calc_Area_Perimeter\july8\july8\obj\Debug\july8.csproj.SuggestedBindingRedirects.cache
+C:\Users\elias\Documents\GitHub\CSharp_Master\Calc_Area_Perimeter\july8\july8\obj\Debug\july8.Form1.resources
+C:\Users\elias\Documents\GitHub\CSharp_Master\Calc_Area_Perimeter\july8\july8\obj\Debug\july8.Properties.Resources.resources
+C:\Users\elias\Documents\GitHub\CSharp_Master\Calc_Area_Perimeter\july8\july8\obj\Debug\july8.csproj.GenerateResource.cache
+C:\Users\elias\Documents\GitHub\CSharp_Master\Calc_Area_Perimeter\july8\july8\obj\Debug\july8.csproj.CoreCompileInputs.cache
+C:\Users\elias\Documents\GitHub\CSharp_Master\Calc_Area_Perimeter\july8\july8\obj\Debug\july8.exe
+C:\Users\elias\Documents\GitHub\CSharp_Master\Calc_Area_Perimeter\july8\july8\obj\Debug\july8.pdb
