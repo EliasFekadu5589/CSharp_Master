@@ -12,7 +12,7 @@ namespace E_Inventory
 {
     public partial class AddProduct : Form
     {
-        Product products = new Product();
+        Product products;
         string size;
         public AddProduct(string username)
         {
@@ -24,6 +24,7 @@ namespace E_Inventory
         {
             try
             {
+                products = new Product();
                 products.Name = txt_name.Text;
                 products.InventoryNumber = int.Parse(txt_inventoryNumber.Text);
                 products.Price = double.Parse(txt_price.Text);
@@ -50,13 +51,14 @@ namespace E_Inventory
             {
                 products.Save();
                 MessageBox.Show("Data Saved Successfully!");
+                dgview_dataOutput.DataSource = null;
+                dgview_dataOutput.DataSource = products.returnData();
             }
             else
             {
                 MessageBox.Show("Error, Entered data is not in the correct format");
             }
-            dgview_dataOutput.DataSource = null;
-            dgview_dataOutput.DataSource = products.returnData();
+            
         }
 
         private void rbtn_small_CheckedChanged(object sender, EventArgs e)

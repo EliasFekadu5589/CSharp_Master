@@ -27,5 +27,10 @@ namespace E_Inventory
         {
             return products;
         }
+
+        public static Product getProduct(string name)
+        {
+            return products.Find(prod => prod.Name == name);
+        }
     }
 }

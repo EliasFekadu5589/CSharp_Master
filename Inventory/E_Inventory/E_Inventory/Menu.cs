@@ -20,10 +20,10 @@ namespace E_Inventory
             this.username = username;
         }
 
-        private void addToolStripMenuItem_Click(object sender, EventArgs e)
+        private void addToolStripMenuItem1_Click(object sender, EventArgs e)
         {
             var form = ActiveMdiChild;
-            if(form != null)
+            if (form != null)
             {
                 form.Close();
             }
@@ -31,6 +31,32 @@ namespace E_Inventory
             var addForm = new AddProduct(username);
             addForm.MdiParent = this;
             addForm.Show();
+        }
+
+        private void searchToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            var form = ActiveMdiChild;
+            if (form != null)
+            {
+                form.Close();
+            }
+
+            var searchForm = new Search();
+            searchForm.MdiParent = this;
+            searchForm.Show();
+        }
+
+        private void viewDataInProductCardToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            var form = ActiveMdiChild;
+            if (form != null)
+            {
+                form.Close();
+            }
+
+            var displayForm = new DisplayProducts();
+            displayForm.MdiParent = this;
+            displayForm.Show();
         }
     }
 }
