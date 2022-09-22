@@ -58,5 +58,18 @@ namespace E_Inventory
             displayForm.MdiParent = this;
             displayForm.Show();
         }
+
+        private void displayToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            var form = ActiveMdiChild;
+            if (form != null)
+            {
+                form.Close();
+            }
+
+            var displayForm = new DisplayDetails();
+            displayForm.MdiParent = this;
+            displayForm.Show();
+        }
     }
 }

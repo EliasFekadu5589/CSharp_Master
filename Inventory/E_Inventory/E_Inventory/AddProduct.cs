@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Data.SqlClient;
 
 namespace E_Inventory
 {
@@ -14,6 +15,8 @@ namespace E_Inventory
     {
         Product products;
         string size;
+
+        public string connectionString = "Data Source = ELIJAHS_PC\\SQLSERVER2; Initial Catalog = Product_Database; Integrated Security = true";
         public AddProduct(string username)
         {
             InitializeComponent();
@@ -50,9 +53,19 @@ namespace E_Inventory
             if (validate.executeValidation())
             {
                 products.Save();
+                string insert = "insert into Products_Table values(@name, @inventoryNumber, @date, @price)";
+                SqlConnection connection = new SqlConnection(connectionString);
+                connection.Open();
+                SqlCommand command = new SqlCommand(insert, connection);
+                command.Parameters.AddWithValue("name",products.Name);
+                command.Parameters.AddWithValue("inventoryNumber",products.InventoryNumber);
+                command.Parameters.AddWithValue("date",products.Date);
+                command.Parameters.AddWithValue("price", products.Price);
+                var rows = command.ExecuteNonQuery();
                 MessageBox.Show("Data Saved Successfully!");
                 dgview_dataOutput.DataSource = null;
                 dgview_dataOutput.DataSource = products.returnData();
+                connection.Close();
             }
             else
             {

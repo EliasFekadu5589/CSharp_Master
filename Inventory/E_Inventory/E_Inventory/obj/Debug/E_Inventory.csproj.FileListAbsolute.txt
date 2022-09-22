@@ -41,3 +41,7 @@ C:\Users\Jake\Downloads\Compressed\CSharp_Master-main\CSharp_Master-main\Invento
 C:\Users\Jake\Downloads\Compressed\CSharp_Master-main\CSharp_Master-main\Inventory\E_Inventory\E_Inventory\obj\Debug\E_Inventory.DisplayDetails.resources
 C:\Users\Jake\Downloads\Compressed\CSharp_Master-main\CSharp_Master-main\Inventory\E_Inventory\E_Inventory\obj\Debug\E_Inventory.DisplayProducts.resources
 C:\Users\Jake\Downloads\Compressed\CSharp_Master-main\CSharp_Master-main\Inventory\E_Inventory\E_Inventory\obj\Debug\E_Inventory.Search.resources
+C:\Users\elias\OneDrive\Documents\GitHub\CSharp_Master\Inventory\E_Inventory\E_Inventory\obj\Debug\E_Inventory.DisplayDetails.resources
+C:\Users\elias\OneDrive\Documents\GitHub\CSharp_Master\Inventory\E_Inventory\E_Inventory\obj\Debug\E_Inventory.DisplayProducts.resources
+C:\Users\elias\OneDrive\Documents\GitHub\CSharp_Master\Inventory\E_Inventory\E_Inventory\obj\Debug\E_Inventory.ProductCard.resources
+C:\Users\elias\OneDrive\Documents\GitHub\CSharp_Master\Inventory\E_Inventory\E_Inventory\obj\Debug\E_Inventory.Search.resources
