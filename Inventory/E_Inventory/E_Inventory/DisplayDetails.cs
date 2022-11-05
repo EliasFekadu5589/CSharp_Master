@@ -38,7 +38,7 @@ namespace E_Inventory
 
         private void DisplayDetails_Load(object sender, EventArgs e)
         {
-            if (recheck)
+            if (!recheck)
             {
                 tableLayoutPanel1.Visible = false;
                 dgv1.Visible = true;
